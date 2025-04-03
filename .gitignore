@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Windows system files
+*.bat
+*.ps1
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
